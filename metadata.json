@@ -1,0 +1,7 @@
+{
+  "name": "FinVista",
+  "description": "A comprehensive money management suite featuring expense tracking, investment portfolio analysis, and tax deduction insights powered by Google Gemini AI.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
